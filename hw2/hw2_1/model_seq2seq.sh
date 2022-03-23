@@ -1,0 +1,1 @@
+python train_seq2seq.py $1 $2
